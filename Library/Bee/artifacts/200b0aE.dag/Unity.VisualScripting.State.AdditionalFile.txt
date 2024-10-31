@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+/Users/samhitarachapudi/Documents/GitHub/TheGaeardan
+=======
 /Users/gwynethanawalt/Documents/GitHub/TheGaeardan
+>>>>>>> master
