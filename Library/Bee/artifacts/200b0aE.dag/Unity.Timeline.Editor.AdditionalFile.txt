@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-/Users/samhitarachapudi/Documents/GitHub/TheGaeardan
-=======
-/Users/gwynethanawalt/Documents/GitHub/TheGaeardan
->>>>>>> master
+/Users/arrankooner/Documents/GitHub/TheGaeardan
