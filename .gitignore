@@ -23,6 +23,7 @@ ProjectSettings/ProjectVersion.txt
 ProjectSettings/QualitySettings.asset
 ProjectSettings/TagManager.asset
 ProjectSettings/TimeManager.asset
+ProjectSettings/EditorUserSettings.asset
 
 # Unity's cache directory
 /[Uu]serSettings/
